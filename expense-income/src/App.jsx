@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import LandingPage from "./LandingPage";
+import LandingPage from "../components/LandingPage";
 import ExpenseTracker from './ExpenseTracker';
 
 function App() {
